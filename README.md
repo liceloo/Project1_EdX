@@ -35,14 +35,26 @@ F_onewayResult(statistic=133.62075399715448, pvalue=7.125113359124046e-16)
 * Since China's p-value is greater than 0.05, we cannot reject the null hypothesis and conclude there isn'y enough evidence to accept that China's mean earnings is different from the rest of the world. This m
 * However, Korea's p-value is less than 0.05, so we can reject the null hypothesis and conclude that Korea's mean prize earnings is statistically significant from the rest of the world.
 
+### References
+Datasets for earnings: https://www.kaggle.com/code/prbm30/esports-earnings-data-analysis/input?select=highest_earning_players.csv
 
-Questions 1) If one were to pursue competetive gaming as a career what game should they play? What is the best way to generate income?
-          2) Will E-Sports eventually overtake conventional sports?
-          
 
+## Questions 2: If one were to pursue competetive gaming as a career what game should they play? What is the best way to generate income? (Bryan Miller)
+This section evaluates twitch information from 2016 to 2023. And looks at highest pools paid per game in tournaments at the end of 2022.
+
+Jupyter Notebook: Bryan E Sport.ipnyb
+
+### References: https://www.kaggle.com/code/rankirsh/visualising-twitch/input?select=Twitch_game_data.csv
+          : https://www.kaggle.com/code/prbm30/esports-earnings-data-analysis/input
+
+step1: Graph Twitch data 2016 - 2023 hours watched and streams available.    Time series popularity of twitch streaming
+
+step2: Graph usd Hours watched vs top 10 Games in period of 2019 - 2023.      Time series popularity of twitch streaming
+
+step3: Merge Data into single graph. Remove NA's and get best games to play if starting E-Sports Career. 
 
 
 Twitch and total Video Game information not available for Rainbow 6 (newest Game)
 
-### References
-Datasets for earnings: https://www.kaggle.com/code/prbm30/esports-earnings-data-analysis/input?select=highest_earning_players.csv
+
+
