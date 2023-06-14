@@ -44,8 +44,9 @@ This section evaluates twitch information from 2016 to 2023. And looks at highes
 
 Jupyter Notebook: Bryan E Sport.ipnyb
 
-### References: https://www.kaggle.com/code/rankirsh/visualising-twitch/input?select=Twitch_game_data.csv
-          : https://www.kaggle.com/code/prbm30/esports-earnings-data-analysis/input
+### References:
+            https://www.kaggle.com/code/rankirsh/visualising-twitch/input?select=Twitch_game_data.csv
+            https://www.kaggle.com/code/prbm30/esports-earnings-data-analysis/input
 
 step1: Graph Twitch data 2016 - 2023 hours watched and streams available.    Time series popularity of twitch streaming
 
