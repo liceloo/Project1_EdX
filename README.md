@@ -24,7 +24,7 @@ F_onewayResult(statistic=133.62075399715448, pvalue=7.125113359124046e-16)
 * The geographical plot visually showed that China and Korea earn much more than the rest of the world. I ran two different Z-tests to confirm whether this was true.
 >* H0: There is no difference in mean prize earnings between China and the rest of the world.
 >* HA: There is a significant difference in mean prize earnings between China and the rest of the world.
-**--------------------------------------------------------------------------------------------------------**
+
 >* H0: There is no difference in mean prize earnings between China and the rest of the world.
 >* HA: There is a significant difference in mean prize earnings between China and the rest of the world.
 * Results:
