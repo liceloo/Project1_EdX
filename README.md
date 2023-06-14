@@ -57,5 +57,33 @@ step3: Merge Data into single graph. Remove NA's and get best games to play if s
 
 Twitch and total Video Game information not available for Rainbow 6 (newest Game)
 
+## Question 3: (Justin Byrd)
+
+## Question 4: Is eSports taking over traditional sports in the US? (Brandon Loredo)
+This section compares the earnings betweeon eSports and Active sports earners from the years 2013 to 2021.
+
+1. Processing Data and Cleaning
+* All datasets were found on kaggle/esportsearnings (link under references). 
+
+2. Data Visualizations
+* Graphed top 10 earners for both esports and active sports for the years 2013-2021 
+* Graphed the average top 10 earners for both esports and active sports for the years 2013-2021
+* Graphed multiple boxplots/scatter plots to show the distribution of earnings by years
+
+3. Analysis
+* The first two visually showed that Dota 2 seemed to dominate this earnings category, so I ran an ANOVA test to see if it was true.
+* H0: There is no difference in mean prize earnings between each game.
+* HA: There is a significant difference in mean prize earnings between each game.
+F_onewayResult(statistic=133.62075399715448, pvalue=7.125113359124046e-16)
+* T-Statistic: -17.67153631041991
+* P-Value: 5.132170911238922e-41
 
 
+4. Conclusion
+* Based on the t-statistic and the very small p-value, we can infer that there is a statistically significant difference in earnings between the top 10 esports earners and the top 10 active sports earners. 
+* The negative t-statistic suggests that the average earnings of the top 10 esports earners are lower than the average earnings of the top 10 active sports earners. 
+* The extremely small p-value indicates strong evidence against the null hypothesis of equal average earnings between the two groups.
+
+### References
+Datasets for Esports: https://www.esportsearnings.com/history/2021/top_players
+Datasets for Active Sports: https://www.kaggle.com/datasets/darinhawley/forbes-high-paid-athletes-19902021?resource=download
