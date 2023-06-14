@@ -59,7 +59,7 @@ Twitch and total Video Game information not available for Rainbow 6 (newest Game
 
 ## Question 3: (Justin Byrd)
 
-## Question 4: Is eSports taking over traditional sports in the US? (Brandon Loredo)
+## Question 4: Is E-Sports taking over traditional sports in the US? (Brandon Loredo)
 This section compares the earnings betweeon eSports and Active sports earners from the years 2013 to 2021.
 
 1. Processing Data and Cleaning
