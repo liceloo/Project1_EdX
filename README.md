@@ -84,5 +84,6 @@ This section compares the earnings betweeon eSports and Active sports earners fr
 * The extremely small p-value indicates strong evidence against the null hypothesis of equal average earnings between the two groups.
 
 ### References
->*Datasets for Esports: https://www.esportsearnings.com/history/2021/top_players
->*Datasets for Active Sports: https://www.kaggle.com/datasets/darinhawley/forbes-high-paid-athletes-19902021?resource=download
+Datasets for Esports: https://www.esportsearnings.com/history/2021/top_players
+
+Datasets for Active Sports: https://www.kaggle.com/datasets/darinhawley/forbes-high-paid-athletes-19902021?resource=download
