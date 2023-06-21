@@ -57,7 +57,33 @@ step3: Merge Data into single graph. Remove NA's and get best games to play if s
 
 Twitch and total Video Game information not available for Rainbow 6 (newest Game)
 
-## Question 3: (Justin Byrd)
+## Question 3: Which Game is Most Popular? (Justin Byrd)
+Jupyter Notebook: Justin e-Sports.ipnyb
+
+this section looks at the popularity of Genre and Games using Player Counts & Earning as the criteria.
+
+1. Prcess & Cleaning Data:
+* All datasets were found on kaggle/esportsearnings (link under references).
+
+2. Vusualizations:
+* Pie Chart illistrating which Genre is accouted for most
+* Bar Chart illistrating Top10 Countries w/ highest player count
+* Bar Chart illistrating player count by genre based on Contires w/ the highest player count
+* Bar Chart illistrating earning potential
+* Bar Chart illistrating actual earnings
+* Bar Chart illistrating player count by game & another of earnings by game
+
+3. Analysis:
+* Multiplayer Online Battle Arena is the most represented genre based on two datasets 
+* Countires w/ the top 5 highest player count played Multiplayer Online Battle Arena games the most
+* Games under the Strategy genre had the highest earning potential with the most amount of tounaments held
+* Games under the Multiplayer Online Battle Arena genre truly is the best earner in terms of earnings by genre
+
+Conclusion:
+* Looking at both player count and earning by Genre it looks as if Multiplayers Online Battle Arena games are the most popular but if you are looking specifically at player count the game Arena of Valor, which is a Multiplayer Online Battle Arena game, has the highest player count and in regards to earnings Dota2, which is also a Multiplayer Online Battle Arena game, has the highest earning out of all the games.
+
+### References
+Datasets for earnings: https://www.kaggle.com/code/prbm30/esports-earnings-data-analysis/input?select=highest_earning_players.csv
 
 
 ## Question 4: Is E-Sports taking over traditional sports in the US? (Brandon Loredo)
